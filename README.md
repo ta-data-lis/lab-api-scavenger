@@ -61,7 +61,7 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 
 ### Challenge 1: Fork Languages
 
-You will find out how many programming languages are used among all the forks created from the main lab repo of your bootcamp. Assuming the main lab repo is `ironhack-datalabs/databer0619`, you will:
+You will find out how many programming languages are used among all the forks created from the main lab repo of your bootcamp. Assuming the main lab repo is `ironhack-datalabs/datalis0819`, you will:
 
 1. Obtain the full list of forks created from the main lab repo via Github API.
 
