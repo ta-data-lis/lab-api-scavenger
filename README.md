@@ -82,14 +82,6 @@ Count how many commits were made in the past week.
 
 1. Count how many commit objects are contained in the array.
 
-### Challenge 3: Hidden Cold Joke
-
-Using Python, call Github API to find out the cold joke contained in the 24 secret files in the following repo:
-
-https://github.com/ironhack-datalabs/scavenger
-
-The filenames of the secret files contain `.scavengerhunt` and they are scattered in different directories of this repo. The secret files are named from `.0001.scavengerhunt` to `.0024.scavengerhunt`. They are scattered randomly throughout this repo. You need to **search for these files by calling the Github API**, not searching the local files on your computer.
-
 Notes:
 
 * Github API documentation can be found [here](https://developer.github.com/v3/).
@@ -104,23 +96,11 @@ Notes:
 
 	Don't worry. Check the parameters in your request and wait for a minute or two before you make additional requests.
 
-**After you find out the secrete files:**
-
-1. Sort the filenames ascendingly.
-
-1. Read the content of each secret files into an array of strings.
-
-1. Concatenate the strings in the array separating each two with a whitespace.
-
-1. Print out the joke.
-
 ## Deliverables
 
 * `challenge-1.py` or `challenge-1.ipynb` that contains your solution to Challenge 1.
 
 * `challenge-2.py` or `challenge-1.ipynb` that contains your solution to Challenge 2.
-
-* `challenge-3.py` or `challenge-1.ipynb` that contains your solution to Challenge 3.
 
 ## Submission
 
@@ -135,16 +115,6 @@ Upon completion, add your deliverables to git. Then commit git and push your cod
 [Github oAuth Authorizations API](https://developer.github.com/v3/oauth_authorizations/)
 
 [Github Other Authorizations API](https://developer.github.com/v3/auth/)
-
-## Additional Challenge for the Nerds
-
-So far we have practiced a lot with the `GET` method but not `PUT`, `POST`, `PATCH`, or `DELETE`. If you wonder what are the differences, refer to the following:
-
-https://spring.io/understanding/REST
-
-Simply put, the `GET` method only allows you to obtain data from API. But the other methods allow you to modify the data stored in the database behind the API. The API must be programmed to support each of these methods though.
-
-The additional challenge for the nerds is for you to use the `PUT` method to create a file in your own repo. You need to grant the correct permissions to your access token in order to make `PUT` requests to your repo. 
 
 ### Note:
 
