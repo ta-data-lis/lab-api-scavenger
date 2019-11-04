@@ -15,7 +15,7 @@ In order to get started, we'd like you to create an access token in your [Github
 1. Select the scopes for which you allow the token to access. Check at least all the `repo` checkboxes as shown in the screenshot below.
 1. Click `Generate token`. Github will create a personal access token for you. 
 
-![Github create personal token](../../images/github-create-token.png)
+![Github create personal token](images/github-create-token.png)
 
 A personal access token is a secret password to allow you or your app to make remote requests to the Github API. It is the same [oAuth](https://oauth.net/) technology as the Twitter developer access token discussed in the lesson but in Github you don't need to wait for the approval and your token will be available immediately. 
 
