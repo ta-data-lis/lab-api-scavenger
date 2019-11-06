@@ -61,7 +61,7 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 
 ### Challenge 1: Fork Languages
 
-You will find out how many programming languages are used among all the forks created from the main lab repo of your bootcamp. Assuming the main lab repo is `ta-data-lis/lab-mysql-first-queries`, you will:
+You will find out how many programming languages are used among all the forks created from the main lab repo of your bootcamp. Assuming the main lab repo is  `ironhack-datalabs/bcn-feb-2019`, you will:
 
 1. Obtain the full list of forks created from the main lab repo via Github API.
 
@@ -76,7 +76,7 @@ Again, the documentation of Github API is [here](https://developer.github.com/v3
 
 ### Challenge 2: Count Commits
 
-Count how many commits were made in the past 2 weeks.
+Assuming the main lab repo is `ta-data-lis/lab-mysql-first-queries`, you will count how many commits were made in the past 2 weeks:
 
 1. Obtain all the commits made in the past 2 weeks via API, which is a JSON array that contains multiple commit objects.
 
