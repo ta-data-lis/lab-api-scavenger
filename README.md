@@ -98,9 +98,7 @@ Notes:
 
 ## Deliverables
 
-* `challenge-1.py` or `challenge-1.ipynb` that contains your solution to Challenge 1.
-
-* `challenge-2.py` or `challenge-1.ipynb` that contains your solution to Challenge 2.
+* `main.ipynb` that contains your solution to Challenge 1 and Challenge 2.
 
 ## Submission
 
