@@ -1,0 +1,70 @@
+2020-07-13T07:23:11.237Z - info: [ui] Background fetch for 15 repositories took 4.800sec
+2020-07-13T07:24:32.479Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.109s)
+2020-07-13T07:42:44.144Z - info: [ui] Background fetch for 15 repositories took 4.392sec
+2020-07-13T07:55:07.965Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.048s)
+2020-07-13T07:57:43.783Z - info: [ui] Background fetch for 15 repositories took 4.044sec
+2020-07-13T08:12:43.458Z - info: [ui] Background fetch for 15 repositories took 3.668sec
+2020-07-13T08:26:43.558Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.423s)
+2020-07-13T08:26:44.887Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.273s)
+2020-07-13T08:27:44.601Z - info: [ui] Background fetch for 15 repositories took 4.200sec
+2020-07-13T08:42:43.774Z - info: [ui] Background fetch for 15 repositories took 3.943sec
+2020-07-13T08:57:43.513Z - info: [ui] Background fetch for 15 repositories took 3.673sec
+2020-07-13T08:57:58.346Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.475s)
+2020-07-13T08:57:59.657Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.291s)
+2020-07-13T09:12:46.521Z - info: [ui] Background fetch for 15 repositories took 4.141sec
+2020-07-13T09:27:43.610Z - info: [ui] Background fetch for 15 repositories took 3.713sec
+2020-07-13T09:30:16.375Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.481s)
+2020-07-13T09:30:17.705Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.316s)
+2020-07-13T09:42:43.655Z - info: [ui] Background fetch for 15 repositories took 3.724sec
+2020-07-13T09:57:58.188Z - info: [ui] Background fetch for 15 repositories took 4.164sec
+2020-07-13T10:01:56.818Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.375s)
+2020-07-13T10:01:58.136Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.302s)
+2020-07-13T10:12:43.458Z - info: [ui] Background fetch for 15 repositories took 3.482sec
+2020-07-13T10:21:40.816Z - info: [ui] [AppStore] loading 15 repositories from store
+2020-07-13T10:21:40.822Z - info: [ui] [AppStore] found account: rafaelmello82 (rafaelmello82)
+2020-07-13T10:21:42.438Z - info: [ui] Executing getRecentBranches: git log -g --no-abbrev-commit --pretty=oneline HEAD -n 2500 -- (took 1.015s)
+2020-07-13T10:21:42.442Z - info: [ui] Executing getBranches: git for-each-ref --format=%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(objectname:short)%00%(author)%00%(committer)%00%(symref)%00%1F refs/heads refs/remotes (took 1.022s)
+2020-07-13T10:21:42.938Z - info: [ui] launching: 2.5.3 (Mac OS 10.15.5)
+2020-07-13T10:21:42.938Z - info: [ui] execPath: '/Applications/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper (Renderer).app/Contents/MacOS/GitHub Desktop Helper (Renderer)'
+2020-07-13T10:21:43.151Z - info: [ui] [BranchPruner] No branches to prune.
+2020-07-13T10:21:44.133Z - info: [ui] Executing getCommitDiff: git log dd3833bdf23ab2dcac637319d653dff9faa4441a -m -1 --first-parent --patch-with-raw -z --no-color -- your-code/Orders.csv (took 1.513s)
+2020-07-13T10:23:46.364Z - info: [ui] Background fetch for 15 repositories took 3.995sec
+2020-07-13T10:32:50.855Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.425s)
+2020-07-13T10:32:52.147Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.273s)
+2020-07-13T10:38:51.139Z - info: [ui] Background fetch for 15 repositories took 3.749sec
+2020-07-13T10:53:52.107Z - info: [ui] Background fetch for 15 repositories took 4.707sec
+2020-07-13T11:05:12.870Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.427s)
+2020-07-13T11:05:14.184Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.300s)
+2020-07-13T11:08:51.134Z - info: [ui] Background fetch for 15 repositories took 3.718sec
+2020-07-13T11:23:50.990Z - info: [ui] Background fetch for 15 repositories took 3.554sec
+2020-07-13T11:37:35.864Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.386s)
+2020-07-13T11:37:37.162Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.282s)
+2020-07-13T11:38:52.607Z - info: [ui] Background fetch for 15 repositories took 3.892sec
+2020-07-13T11:53:50.284Z - info: [ui] Background fetch for 15 repositories took 3.657sec
+2020-07-13T12:08:51.002Z - info: [ui] Background fetch for 15 repositories took 3.512sec
+2020-07-13T12:09:56.849Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.327s)
+2020-07-13T12:09:58.134Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.270s)
+2020-07-13T12:23:51.001Z - info: [ui] Background fetch for 15 repositories took 3.486sec
+2020-07-13T12:38:51.561Z - info: [ui] Background fetch for 15 repositories took 4.030sec
+2020-07-13T12:42:17.874Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.317s)
+2020-07-13T12:42:19.197Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.305s)
+2020-07-13T12:53:51.772Z - info: [main] Processing protocol url
+2020-07-13T12:53:51.934Z - info: [ui] Background fetch for 15 repositories took 4.379sec
+2020-07-13T12:53:53.401Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/rafaelmello82/lab-api-scavenger.git - rafaelmello82 (has token)
+2020-07-13T12:53:55.209Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/rafaelmello82/lab-api-scavenger.git /Users/rafaelmello/Documents/GitHub/lab-api-scavenger (took 1.771s)
+2020-07-13T12:53:55.219Z - info: [ui] [AppStore] adding repository at /Users/rafaelmello/Documents/GitHub/lab-api-scavenger to store
+2020-07-13T12:53:55.436Z - info: [ui] [BranchPruner] Last prune took place in 21 hours - skipping
+2020-07-13T12:53:55.711Z - info: [ui] [BranchPruner] No branches to prune.
+2020-07-13T12:54:04.516Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-07-13T12:59:27.310Z - error: [ui] Error performing periodic fetch for 'rafaelmello82/lab-api-scavenger'
+Error: Unable to find path to repository on disk.
+    at /webpack:/app/node_modules/dugite/build/lib/git-process.js:87:1
+    at exithandler (child_process.js:315:5)
+    at ChildProcess.errorhandler (child_process.js:327:5)
+    at ChildProcess.emit (events.js:203:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:270:12)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+2020-07-13T13:08:48.676Z - info: [ui] Background fetch for 16 repositories took 2.085sec
+2020-07-13T13:23:49.632Z - info: [ui] Background fetch for 16 repositories took 2.037sec
+2020-07-13T13:38:49.635Z - info: [ui] Background fetch for 16 repositories took 2.014sec
