@@ -1,0 +1,709 @@
+[
+  {
+    "sha": "60c0a9f13b1a42983b9498d3c28086bcde4aaa30",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OjYwYzBhOWYxM2IxYTQyOTgzYjk0OThkM2MyODA4NmJjZGU0YWFhMzA=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T17:39:36Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T17:39:36Z"
+      },
+      "message": "Challenge 2 complete",
+      "tree": {
+        "sha": "7c92ffffa2a7c93030e0b3fb9f9b19e3ca265e8a",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/7c92ffffa2a7c93030e0b3fb9f9b19e3ca265e8a"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/60c0a9f13b1a42983b9498d3c28086bcde4aaa30",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/60c0a9f13b1a42983b9498d3c28086bcde4aaa30",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/60c0a9f13b1a42983b9498d3c28086bcde4aaa30",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/60c0a9f13b1a42983b9498d3c28086bcde4aaa30/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/9b55bbbd92cef20978b82b4127cc16e9b7fde498"
+      }
+    ]
+  },
+  {
+    "sha": "9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OjliNTViYmJkOTJjZWYyMDk3OGI4MmI0MTI3Y2MxNmU5YjdmZGU0OTg=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T17:34:59Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T17:34:59Z"
+      },
+      "message": "Challenge 3 Complete",
+      "tree": {
+        "sha": "e1882f84b7fb71703455f057e7248c07de97b620",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/e1882f84b7fb71703455f057e7248c07de97b620"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/9b55bbbd92cef20978b82b4127cc16e9b7fde498",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/9b55bbbd92cef20978b82b4127cc16e9b7fde498/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f3216d14be776310a470c4c4f16e3d6abc8389c7",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f3216d14be776310a470c4c4f16e3d6abc8389c7",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/f3216d14be776310a470c4c4f16e3d6abc8389c7"
+      }
+    ]
+  },
+  {
+    "sha": "f3216d14be776310a470c4c4f16e3d6abc8389c7",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OmYzMjE2ZDE0YmU3NzYzMTBhNDcwYzRjNGYxNmUzZDZhYmM4Mzg5Yzc=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T13:15:01Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-10T13:15:01Z"
+      },
+      "message": "Updated",
+      "tree": {
+        "sha": "962ee448cf5cdc878c3aee4c4753476fb8b3e920",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/962ee448cf5cdc878c3aee4c4753476fb8b3e920"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/f3216d14be776310a470c4c4f16e3d6abc8389c7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f3216d14be776310a470c4c4f16e3d6abc8389c7",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/f3216d14be776310a470c4c4f16e3d6abc8389c7",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f3216d14be776310a470c4c4f16e3d6abc8389c7/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/c3595f52e0e7397cdce5c8419598d8bc097ecc4a"
+      }
+    ]
+  },
+  {
+    "sha": "c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OmMzNTk1ZjUyZTBlNzM5N2NkY2U1Yzg0MTk1OThkOGJjMDk3ZWNjNGE=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-08T13:26:58Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-08T13:26:58Z"
+      },
+      "message": "Updated some of the answers",
+      "tree": {
+        "sha": "b65fbd5e244482efde77b08f3435e638c417ea85",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/b65fbd5e244482efde77b08f3435e638c417ea85"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/c3595f52e0e7397cdce5c8419598d8bc097ecc4a",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/c3595f52e0e7397cdce5c8419598d8bc097ecc4a/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2fd54b7a202083705b204c6839b85fba2117d9af",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/2fd54b7a202083705b204c6839b85fba2117d9af",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/2fd54b7a202083705b204c6839b85fba2117d9af"
+      }
+    ]
+  },
+  {
+    "sha": "2fd54b7a202083705b204c6839b85fba2117d9af",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OjJmZDU0YjdhMjAyMDgzNzA1YjIwNGM2ODM5Yjg1ZmJhMjExN2Q5YWY=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T21:40:07Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T21:40:07Z"
+      },
+      "message": "Challenge 2 P2 Complete P3 In progress",
+      "tree": {
+        "sha": "e89b471d618582fa2ba17bc5d43a091dbe5d690e",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/e89b471d618582fa2ba17bc5d43a091dbe5d690e"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/2fd54b7a202083705b204c6839b85fba2117d9af",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/2fd54b7a202083705b204c6839b85fba2117d9af",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/2fd54b7a202083705b204c6839b85fba2117d9af",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/2fd54b7a202083705b204c6839b85fba2117d9af/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462"
+      }
+    ]
+  },
+  {
+    "sha": "ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OmFkNzMzOThkOGUwMWI2NDJjYTFhMmZiMWIyYTU1ODk2ZTRiMWI0NjI=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T20:49:46Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T20:49:46Z"
+      },
+      "message": "Challenge 2 Problem 1 Complete",
+      "tree": {
+        "sha": "f35847c7d56e2b5b099d801d874d5c3cffa2f8c9",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/f35847c7d56e2b5b099d801d874d5c3cffa2f8c9"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/ad73398d8e01b642ca1a2fb1b2a55896e4b1b462/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0f7ee5e42550c62317c4d9e076753583466bfda1",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/0f7ee5e42550c62317c4d9e076753583466bfda1",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/0f7ee5e42550c62317c4d9e076753583466bfda1"
+      }
+    ]
+  },
+  {
+    "sha": "0f7ee5e42550c62317c4d9e076753583466bfda1",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OjBmN2VlNWU0MjU1MGM2MjMxN2M0ZDllMDc2NzUzNTgzNDY2YmZkYTE=",
+    "commit": {
+      "author": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T20:01:45Z"
+      },
+      "committer": {
+        "name": "JMark1991",
+        "email": "jormarq1@hotmail.com",
+        "date": "2020-07-07T20:01:45Z"
+      },
+      "message": "Challenge 1 complete",
+      "tree": {
+        "sha": "15080de3c7ff85d8e09cf9d9bfd2e8e7a528b15e",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/15080de3c7ff85d8e09cf9d9bfd2e8e7a528b15e"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/0f7ee5e42550c62317c4d9e076753583466bfda1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/0f7ee5e42550c62317c4d9e076753583466bfda1",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/0f7ee5e42550c62317c4d9e076753583466bfda1",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/0f7ee5e42550c62317c4d9e076753583466bfda1/comments",
+    "author": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "JMark1991",
+      "id": 48073502,
+      "node_id": "MDQ6VXNlcjQ4MDczNTAy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48073502?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/JMark1991",
+      "html_url": "https://github.com/JMark1991",
+      "followers_url": "https://api.github.com/users/JMark1991/followers",
+      "following_url": "https://api.github.com/users/JMark1991/following{/other_user}",
+      "gists_url": "https://api.github.com/users/JMark1991/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/JMark1991/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/JMark1991/subscriptions",
+      "organizations_url": "https://api.github.com/users/JMark1991/orgs",
+      "repos_url": "https://api.github.com/users/JMark1991/repos",
+      "events_url": "https://api.github.com/users/JMark1991/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/JMark1991/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/f211167dc6c6a43af9dcc912e7544a6d74b75c4d"
+      }
+    ]
+  },
+  {
+    "sha": "f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OmYyMTExNjdkYzZjNmE0M2FmOWRjYzkxMmU3NTQ0YTZkNzRiNzVjNGQ=",
+    "commit": {
+      "author": {
+        "name": "Data Analytics - Ironhack Lisbon",
+        "email": "lisbon.data@ironhack.com",
+        "date": "2020-01-28T13:56:12Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2020-01-28T13:56:12Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "4eaf74d6ecf90dcf012270e8e23ffff32cc28bec",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/4eaf74d6ecf90dcf012270e8e23ffff32cc28bec"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJeMD18CRBK7hj4Ov3rIwAAdHIIAC6JzYRL3qeOTnoi0wrlMyJW\nsyVw+g9wYFLZMLx2yEbx+FuCsGdHz3SqXS9EYPCnMz22WbR3UksZ2raz6tn+TnDq\nH4z0CYKunVId+2WiSRcJEY46Gq8zQVzKB0KV+8rccbccSf4UJLE0odre0AjpGCAr\n4RTNboZoLGLFIG+WvWd6RfR7eZzyHcQ0Y9SDyLU88B4RDRKOR5z53P+vvigRoUnK\npgx5tm+9+op8f0656Qj7tgK72WdSO4S+tVfVQs9cBY55CbKmTjssJDxZpPRXarrw\nuI4QJAl4ZxF9TDdI+flCb9h6oQKXLw5LngVO8wSYBtQ1K9Xcpl9jvn9SSDkP/SI=\n=4ogp\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 4eaf74d6ecf90dcf012270e8e23ffff32cc28bec\nparent eb7a7b8f47a2033111ac012f8bf66172379f7152\nauthor Data Analytics - Ironhack Lisbon <lisbon.data@ironhack.com> 1580219772 +0000\ncommitter GitHub <noreply@github.com> 1580219772 +0000\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/f211167dc6c6a43af9dcc912e7544a6d74b75c4d",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/f211167dc6c6a43af9dcc912e7544a6d74b75c4d/comments",
+    "author": {
+      "login": "ta-data-lis",
+      "id": 54109907,
+      "node_id": "MDQ6VXNlcjU0MTA5OTA3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/54109907?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-data-lis",
+      "html_url": "https://github.com/ta-data-lis",
+      "followers_url": "https://api.github.com/users/ta-data-lis/followers",
+      "following_url": "https://api.github.com/users/ta-data-lis/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-data-lis/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-data-lis/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-data-lis/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-data-lis/orgs",
+      "repos_url": "https://api.github.com/users/ta-data-lis/repos",
+      "events_url": "https://api.github.com/users/ta-data-lis/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-data-lis/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "eb7a7b8f47a2033111ac012f8bf66172379f7152",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/eb7a7b8f47a2033111ac012f8bf66172379f7152",
+        "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/eb7a7b8f47a2033111ac012f8bf66172379f7152"
+      }
+    ]
+  },
+  {
+    "sha": "eb7a7b8f47a2033111ac012f8bf66172379f7152",
+    "node_id": "MDY6Q29tbWl0Mjc3NjMxNjM0OmViN2E3YjhmNDdhMjAzMzExMWFjMDEyZjhiZjY2MTcyMzc5ZjcxNTI=",
+    "commit": {
+      "author": {
+        "name": "carlosmd14",
+        "email": "carlosmadrizd@gmail.com",
+        "date": "2020-01-23T11:26:19Z"
+      },
+      "committer": {
+        "name": "carlosmd14",
+        "email": "carlosmadrizd@gmail.com",
+        "date": "2020-01-23T11:26:19Z"
+      },
+      "message": "first commit",
+      "tree": {
+        "sha": "2660f1d25e972ffec14fc29c6451eceaf78d49a8",
+        "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/trees/2660f1d25e972ffec14fc29c6451eceaf78d49a8"
+      },
+      "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/git/commits/eb7a7b8f47a2033111ac012f8bf66172379f7152",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/eb7a7b8f47a2033111ac012f8bf66172379f7152",
+    "html_url": "https://github.com/JMark1991/lab-dataframe-calculations/commit/eb7a7b8f47a2033111ac012f8bf66172379f7152",
+    "comments_url": "https://api.github.com/repos/JMark1991/lab-dataframe-calculations/commits/eb7a7b8f47a2033111ac012f8bf66172379f7152/comments",
+    "author": {
+      "login": "carlosmd14",
+      "id": 45972288,
+      "node_id": "MDQ6VXNlcjQ1OTcyMjg4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45972288?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlosmd14",
+      "html_url": "https://github.com/carlosmd14",
+      "followers_url": "https://api.github.com/users/carlosmd14/followers",
+      "following_url": "https://api.github.com/users/carlosmd14/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlosmd14/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlosmd14/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlosmd14/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlosmd14/orgs",
+      "repos_url": "https://api.github.com/users/carlosmd14/repos",
+      "events_url": "https://api.github.com/users/carlosmd14/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlosmd14/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "carlosmd14",
+      "id": 45972288,
+      "node_id": "MDQ6VXNlcjQ1OTcyMjg4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45972288?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlosmd14",
+      "html_url": "https://github.com/carlosmd14",
+      "followers_url": "https://api.github.com/users/carlosmd14/followers",
+      "following_url": "https://api.github.com/users/carlosmd14/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlosmd14/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlosmd14/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlosmd14/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlosmd14/orgs",
+      "repos_url": "https://api.github.com/users/carlosmd14/repos",
+      "events_url": "https://api.github.com/users/carlosmd14/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlosmd14/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
