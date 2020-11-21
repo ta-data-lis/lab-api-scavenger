@@ -30,7 +30,7 @@ df1.drop_duplicates()
 
 
 url = 'https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits'
-res = requests.get(url ,auth = HTTPBasicAuth('eloieloieloi', '50363dfa147a251b774f72cbba639eb19e08914d'))
+res = requests.get(url ,auth = HTTPBasicAuth('user', 'password'))
 df = pd.DataFrame(res.json())
 df2 = pd.json_normalize(df['commit'])
 date = '2020-11-7'
