@@ -65,10 +65,10 @@ You will find out how many programming languages are used among all the forks cr
 
 1. Obtain the full list of forks created from the main lab repo via Github API.
 
-1. Loop the JSON response to find out the `language` attribute of each fork. Use an array to store the `language` attributes of each fork.
+2. Loop the JSON response to find out the `language` attribute of each fork. Use an array to store the `language` attributes of each fork.
     * *Hint: Each language should appear only once in your array.*
 
-1. Print the language array. It should be something like:
+3. Print the language array. It should be something like:
 
 	```["Python", "Jupyter Notebook", "HTML"]```
 
@@ -80,7 +80,7 @@ Assuming the main lab repo is `ta-data-lis/lab-mysql-first-queries`, you will co
 
 1. Obtain all the commits made in the past 2 weeks via API, which is a JSON array that contains multiple commit objects.
 
-1. Count how many commit objects are contained in the array.
+2. Count how many commit objects are contained in the array.
 
 Notes:
 
