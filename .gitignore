@@ -138,4 +138,7 @@ fabric.properties
 # Ignore all local history of files
 .history
 
+### Credential Files ###
+*_creds.txt
+*_key.txt
 # End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
