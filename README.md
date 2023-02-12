@@ -13,7 +13,7 @@ In order to get started, we'd like you to create an access token in your [Github
 1. Click `Generate new token` in the page.
 1. Enter token description.
 1. Select the scopes for which you allow the token to access. Check at least all the `repo` checkboxes as shown in the screenshot below.
-1. Click `Generate token`. Github will create a personal access token for you. 
+1. Click `Generate token`. Github will create a personal access token for you.
 
 ![Github create personal token](images/github-create-token.png)
 
