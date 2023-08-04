@@ -55,7 +55,7 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 
 :information_source: Access token is one of the ways to authenticate requests to Github API. Alternatively, you can also use your Github username and password. However, you'll need to manually enter your password every time when you make API requests. In contrast, access token allows you to make requests without entering password manually. For more information about Github API authentications, refer to [this](https://developer.github.com/v3/auth/) and [this](https://developer.github.com/v3/oauth_authorizations/) documentation.
 
-:information_source: From now on, we will not give you step-by-step instructions in the labs. You already have the foundation in Python and data analytics that allows you to research data solutions. We will, however, provide general guidance on how to complete your lab assignments. In case you find it difficult to tackle your assignments with the general guidance, please don't hesitate to ask the instructional team. We are here to help! :v:
+:information_source: From now on, we will not give you step-by-step instructions in the labs. You already have the foundation in Python and data analytics that allows you to research data solutions. We will, however, provide general guidance on how to complete your lab assignments. In case you find it difficult to tackle your assignments with the general guidance, please don't hesitate to ask the instruct    ional team. We are here to help! :v:
 
 ## Goals
 
